@@ -1,0 +1,3 @@
+#!/bin/bash
+go get -v github.com/urfave/cli
+go get -v github.com/spf13/viper
