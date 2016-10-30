@@ -1,2 +1,2 @@
-# meow.tools.ops.technicallyspeaking.io
+# meow
 Simplify your development story... right meow.
